@@ -41,9 +41,12 @@ Skills
 
 Projects
 ======
-* Spring 2022: VR History Explorer
+* VR History Explorer
   * Created immersive VR games called “VR History Explorer” on CoSpaces with learning theories to allow learners to transport themselves to different historical places in China, utilizing equirectangular images as supportive techniques.
   * Guided learners to build their knowledge of historical concepts step by step through multiple-choice questions with NPC, introduced them to a fragment of history each time and provided suitable scaffoldings and hints at proper times.
+
+* [Shiny Investment](http://ec2-54-157-43-183.compute-1.amazonaws.com:3838/shiny-investment/)
+  * Developed an interactive web dashboard with Shiny in R, which users can calculate expected portfolio return on bond, fix income and US equity. Visualize the prediction with ggplot2. Deployed on AWS EC2
 
 Publications
 ======
