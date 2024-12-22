@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* International Educational Development, Columbis University, Sep 2021 - May 2023
+* International Arts Management and Economics, Columbia College Chicago, Sep 2016 - May 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sprint 2022: Tiz EdTech
+  * Analyzed and reported the New York State Test Results of P.S. 183 Robert L. Stevenson school on many aspects, including school quality, proficiency rates, gender, race, economic status, disabilities, and comparison with NYS District #2.
+  * Organized and analyzed the Social Emotional Learning data from Mental Health Center to help students develop healthy identities, manage emotions, achieve personal and collective goals, and make responsible decisions.
+  * Prepared and analyzed social network analysis from Stanford University's MOOC User Action Dataset to determine the relationship between target course activities and student drop-out actions.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021: The Human Rights Educational Center and the Ecovillage
+  * Designed a practice-based curriculum for local students in South Africa, Mpumalanga Province, to introduce human rights and environmental topics.
+  * Created and evaluated student assignments to appropriately demonstrate the ability to understand the direct interconnectedness between human life and the environment.
+  * Guided students in identifying appropriate research topics to ensure students practically engaged in building their own houses, protecting water from pollution, and preserving the environment.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Curriculum Design
+* Programming Language 
+  * Python
+  * R
+  * Java
+  * C++
+  * Javascript
+* Photoshop
+* Adobe Premiere
+
+Projects
+======
+* Spring 2022: VR History Explorer
+  * Created immersive VR games called “VR History Explorer” on CoSpaces with learning theories to allow learners to transport themselves to different historical places in China, utilizing equirectangular images as supportive techniques.
+  * Guided learners to build their knowledge of historical concepts step by step through multiple-choice questions with NPC, introduced them to a fragment of history each time and provided suitable scaffoldings and hints at proper times.
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
