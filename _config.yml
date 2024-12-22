@@ -21,7 +21,7 @@ repository               : "crystalw0810/crystalw0810.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sidebar-photo.JPG"
+  avatar           : "profile.png"
   name             : "Crystal Wang"
   pronouns         : # example: "she/her"  
   bio              : "I'm a creative soul who thrives at the intersection of art and engineering —- like my two cats, April and Higgs. April channels her inner artist, while Higgs is the math genius of the house. Together, we make the perfect team for tackling both the abstract and the analytical!"
